@@ -1,12 +1,13 @@
 <h1 align="center">
   <b>Hello there!<br></b> </h1>
 <p align="center">
+  (Please switch to Light mode)
 <img width="55%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
 </p>
 
 
  <p align="center">
- 
+
   <img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">  
   <a href="https://www.github.com/sig5/">
   <img src="https://github.com/sig5/sig5.github.io/blob/main/github.png?raw=true"  width="3%"></a>
@@ -24,7 +25,7 @@
   </p>
    <p align="center"><b>Connect with me ?</b></p>
   <br><br>
-  
+  <p>I am a third year undergraduate student at NIT Allahabad. Algorithms and Solving problems keep me awake through nights and the mere idea of building applications and learning stuff fill me with joy </p>
   
  <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sig5&count_private=true&show_icons=true" /> &nbsp&nbsp
