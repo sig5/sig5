@@ -1,5 +1,5 @@
-<h2 align="center">
-  Hello there!<br> </h2>
+<p align="center">
+  <b>Hello there!<br></b> </p>
 <p align="center">
 <img width="55%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
 </p>
@@ -21,9 +21,7 @@
   <img src="https://github.com/sig5/sig5.github.io/blob/main/linkedin.png?raw=true" width="3%"> </a><img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true"> 
   <a href="https://open.spotify.com/playlist/5XrzXkTL03c6Ynmyri0YhF?si=44b3f6de5de645a3">
   <img src="https://github.com/sig5/sig5.github.io/blob/main/spotify.png?raw=true" " width="3%"> </a><img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">
-     
   </p>
-  
    <p align="center"><b>Connect with me ?</b></p>
   <br><br>
   
