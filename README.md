@@ -4,7 +4,7 @@
 <img width="55%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
 </p>
 
- <p align="center"><b>Connect with me ?</b></p>
+
  <p align="center">
  
   <img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">  
@@ -23,6 +23,8 @@
   <img src="https://github.com/sig5/sig5.github.io/blob/main/spotify.png?raw=true" " width="3%"> </a><img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">
      
   </p>
+  
+   <p align="center"><b>Connect with me ?</b></p>
   <br><br>
   
   
