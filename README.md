@@ -13,8 +13,10 @@
   <img src="https://github.com/sig5/sig5.github.io/blob/main/linkedin.png?raw=true" href="https://www.instagram.com/the_sloppy_sloth/" width="3%"> <img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">       
   <img src="https://github.com/sig5/sig5.github.io/blob/main/spotify.png?raw=true" href="https://www.instagram.com/the_sloppy_sloth/" width="3%"> <img src="https://github.com/sig5/sig5.github.io/blob/main/x.png?raw=true">        
   </p>
-  
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig5)](https://github.com/sig5/github-readme-stats)
-  
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig5" /> &nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sig5&count_private=true&show_icons=true" /><br>
+
+  </p>
+
 ![Visitor Count](https://profile-counter.glitch.me/sig5/count.svg)
