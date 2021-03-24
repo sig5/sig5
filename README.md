@@ -21,5 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig5&exclude_repo=mood-synth" /><br>
 
   </p>
-
-![](https://komarev.com/ghpvc/?username=sig5&color=grey)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=sig5&color=grey" width="15%">
+ </p>
