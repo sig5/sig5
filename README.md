@@ -27,9 +27,8 @@
   
   
  <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sig5&count_private=true&show_icons=true" /><br><br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sig5&count_private=true&show_icons=true" /> &nbsp&nbsp
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig5&exclude_repo=mood-synth" /><br>
-
   </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sig5&color=grey" width="15%">
