@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>Hello there!<br></b> </h1>
 <p align="center">
-  (Please switch to Light mode)
+  (Please switch to Light mode)<br>
 <img width="55%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
 </p>
 
