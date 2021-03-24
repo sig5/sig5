@@ -1,7 +1,7 @@
 <h2 align="center">
   Hello there!<br> </h2>
 <p align="center">
-<img width="35%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
+<img width="55%" src="https://user-images.githubusercontent.com/48352577/112359947-d1d2dc80-8cf7-11eb-99b7-269e154947a5.gif" >
 </p>
 
  <h2 align="center">Connect with me ?</h2>
