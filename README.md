@@ -26,7 +26,7 @@
   </p>
    <p align="center"><b>Connect with me ?</b></p>
   <br><br>
-  <p>I am a third year undergraduate student at NIT Allahabad. Algorithms and Solving problems keep me awake through nights and the mere idea of building applications and learning stuff fill me with joy </p>
+  <p>I am a third year undergraduate student at NIT Allahabad. I love problem solving and building stuff! </p>
   
  <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sig5&count_private=true&show_icons=true" /> &nbsp&nbsp
